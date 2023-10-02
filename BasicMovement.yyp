@@ -4,7 +4,9 @@
   "name": "BasicMovement",
   "resources": [
     {"id":{"name":"spr_goober","path":"sprites/spr_goober/spr_goober.yy",},"order":0,},
+    {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":1,},
     {"id":{"name":"opj_goober","path":"objects/opj_goober/opj_goober.yy",},"order":0,},
+    {"id":{"name":"spr_cloud","path":"sprites/spr_cloud/spr_cloud.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
@@ -14,7 +16,7 @@
     {"name":"Windows","path":"options/windows/options_windows.yy",},
     {"name":"operagx","path":"options/operagx/options_operagx.yy",},
   ],
-  "defaultScriptType": 0,
+  "defaultScriptType": 2,
   "isEcma": false,
   "configs": {
     "name": "Default",
